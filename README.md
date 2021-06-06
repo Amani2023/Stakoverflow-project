@@ -1,1 +1,18 @@
-Stakoverflow project
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project is simple maven project using java language.
+	
+## Technologies
+Project is created with:
+* selenium-java-3.141.59
+* intelliJ IDEA Community Edition 2020.2.1
+* Java Version: 14.0.2
+	
+## Setup
+To run this project, install the above Technologies:
+
+

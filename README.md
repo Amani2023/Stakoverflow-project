@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple maven project using java language covered search test case in stackoverflow website
+This project is simple maven project using java language covered search test case in stackoverflow website.
 	
 ## Technologies
 Project is created with:

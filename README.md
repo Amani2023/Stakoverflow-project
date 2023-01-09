@@ -11,6 +11,7 @@ Project is created with:
 * selenium-java-3.141.59
 * intelliJ IDEA Community Edition 2020.2.1
 * Java Version: 14.0.2
+* ChromeDriver: please note to download release suitable with chrome version in your machine
 	
 ## Setup
 To run this project, install the above Technologies:
